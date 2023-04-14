@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/liboy12/)  &nbsp;
 <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/> <a href="mailto:torresarlie22@gmail.com">
   ### Tech stacked:
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,react,nextjs,html,css,postgresql,firebase,&perline=8&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,prisma,cs,html,css,postgresql,firebase,&perline=8&theme=light)](https://skillicons.dev)
